@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AmdProcesor</string>
+
+    <string name="projectname">AMDProcesor</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="me">Baharudin Nur Hidayat</string>
+    <string name="email">baharudindayat57@gmail.com</string>
+    <string name="procesorname">Procesor Name</string>
+    <string name="specs">Specs of core : </string>
+    <string name="desccore">desc core</string>
+    <string name="descriptionprocesor">Description :</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>AMD Ryzen 5 5600G</item>
+        <item>AMD Ryzen 7 5700G</item>
+        <item>AMD Ryzen 9 5950X</item>
+        <item>AMD Ryzen Threadripper PRO 5995WX</item>
+        <item>AMD EPYC 7003</item>
+        <item>AMD Athlon 3000G</item>
+        <item>AMD Ryzen Threadripper 3990X</item>
+        <item>AMD Ryzen 3 3300X</item>
+        <item>AMD Ryzen 7 3700U</item>
+        <item>AMD FX 8530</item>
+    </string-array>
+
+    <string-array name="core">
+        <item>Specs : 6-core, 12-thread</item>
+        <item>Specs : 8-core, 16-thread processor</item>
+        <item>Specs : 16-core, 32-thread processor</item>
+        <item>Specs : 64-core, 128-thread</item>
+        <item>Specs : 64-core, 128-thread</item>
+        <item>Specs : 2-core, 4-thread</item>
+        <item>Specs : 64-core, 128-thread</item>
+        <item>Specs : 4-core, 8-threads</item>
+        <item>Specs : 4-core, 8-threads</item>
+        <item>Specs : 8-core</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The AMD Ryzen 5 5600G is a desktop processor that was released in August 2021. It is part of the Zen 3 architecture and is built on a 7nm manufacturing process. The Ryzen 5 5600G is a 6-core, 12-thread processor with a base clock speed of 3.9 GHz and a boost clock speed of 4.4 GHz. It also features integrated Radeon Vega graphics with 7 compute units and a graphics clock speed of 1.9 GHz. The processor has a thermal design power (TDP) of 65 watts and supports PCIe 4.0 for faster data transfer. It also supports DDR4 memory with speeds of up to 3200 MHz.Overall, the Ryzen 5 5600G is a powerful processor that is suitable for gaming, content creation, and other demanding tasks.</item>
+        <item>The AMD Ryzen 7 5700G is a desktop processor that was released in August 2021. It is part of the Zen 3 architecture and is built on a 7nm manufacturing process. The Ryzen 7 5700G is an 8-core, 16-thread processor with a base clock speed of 3.8 GHz and a boost clock speed of 4.6 GHz. It also features integrated Radeon Vega graphics with 8 compute units and a graphics clock speed of 2.0 GHz. The processor has a thermal design power (TDP) of 65 watts and supports PCIe 4.0 for faster data transfer. It also supports DDR4 memory with speeds of up to 3200 MHz.Overall, the Ryzen 7 5700G is a high-performance processor that is suitable for demanding tasks such as gaming, content creation, and productivity.</item>
+        <item>The AMD Ryzen 9 5950X is a desktop processor that was released in November 2020. It is part of the Zen 3 architecture and is built on a 7nm manufacturing process. The Ryzen 9 5950X is a 16-core, 32-thread processor with a base clock speed of 3.4 GHz and a boost clock speed of 4.9 GHz. It does not have integrated graphics and requires a dedicated graphics card. The processor has a thermal design power (TDP) of 105 watts and supports PCIe 4.0 for faster data transfer. It also supports DDR4 memory with speeds of up to 3200 MHz. The Ryzen 9 5950X is a high-end processor that is suitable for demanding tasks such as gaming, content creation, and productivity. It is particularly well-suited for tasks that can take advantage of its high core count, such as video editing, 3D rendering, and scientific computing.</item>
+        <item>The AMD Ryzen Threadripper PRO 5995WX Processor is a high-end desktop processor that was released in August 2021. It is part of the Zen 3 architecture and is built on a 7nm manufacturing process. The Threadripper PRO 5995WX is a 64-core, 128-thread processor with a base clock speed of 2.4 GHz and a boost clock speed of 4.5 GHz. It does not have integrated graphics and requires a dedicated graphics card. The processor has a thermal design power (TDP) of 280 watts and supports PCIe 4.0 for faster data transfer. It also supports DDR4 memory with speeds of up to 3200 MHz. The Threadripper PRO 5995WX is designed for professional users who demand the highest levels of performance from their workstations. It is particularly well-suited for tasks such as 3D rendering, video editing, and scientific computing.</item>
+        <item>The AMD EPYC 7003 is a server processor series that was released in March 2021. It is based on the Zen 3 architecture and is built on a 7nm manufacturing process. The EPYC 7003 series includes processors with up to 64 cores and 128 threads, with clock speeds ranging from 2.0 GHz to 3.5 GHz. They support up to 4TB of DDR4 memory with speeds of up to 3200 MHz, and have a thermal design power (TDP) of up to 280 watts. The EPYC 7003 series is designed for use in high-performance computing environments such as data centers, cloud computing, and scientific computing. They are particularly well-suited for tasks such as virtualization, machine learning, and data analysis.</item>
+        <item>The AMD Athlon 3000G is a low-end desktop processor that was released in November 2019. It is based on the Zen architecture and is built on a 12nm manufacturing process. The Athlon 3000G is a dual-core processor with a base clock speed of 3.5 GHz and does not have SMT (Simultaneous Multi-Threading) capabilities. It also features integrated Radeon Vega 3 graphics with 192 stream processors and a graphics clock speed of 1100 MHz. The processor has a thermal design power (TDP) of 35 watts and supports DDR4 memory with speeds of up to 2666 MHz. The Athlon 3000G is designed for basic computing tasks such as web browsing, email, and office applications. It is not suitable for demanding tasks such as gaming or content creation, but it provides better performance than its predecessor, the Athlon 200GE.</item>
+        <item>The AMD Ryzen Threadripper 3990X is a high-end desktop processor released in February 2020. It is built on AMD  7nm Zen 2 architecture and features 64 cores and 128 threads. The processor has a base clock speed of 2.9 GHz and a boost clock speed of up to 4.3 GHz.The Threadripper 3990X has a thermal design power (TDP) of 280 watts and supports PCIe 4.0. It also has a massive 288MB of cache, which allows for faster data access and processing. The processor is designed for high-performance computing tasks such as video editing, 3D rendering, and scientific simulations. It is one of the most powerful desktop processors available on the market and is suitable for demanding workloads that require a high level of processing power.</item>
+        <item>The AMD Ryzen 3 3300X is a desktop processor released in May 2020. It is built on AMD 7nm Zen 2 architecture and features 4 cores and 8 threads. The processor has a base clock speed of 3.8 GHz and can boost up to 4.3 GHz. The Ryzen 3 3300X has a thermal design power (TDP) of 65 watts and supports PCIe 4.0. It also has 16MB of cache, which allows for faster data access and processing. One of the key features of the Ryzen 3 3300X is its performance-to-price ratio, as it offers strong performance for its price point. It is a good option for entry-level gaming and other computing applications that require solid performance on a budget.</item>
+        <item>The AMD Ryzen 7 3700U is a mobile processor released in January 2019. It is built on AMD s 12nm Zen+ architecture and features 4 cores and 8 threads. The processor has a base clock speed of 2.3 GHz and can boost up to 4.0 GHz.One of the key features of the Ryzen 7 3700U is its integrated Radeon RX Vega 10 graphics, which has 10 compute units and a maximum graphics frequency of 1.4 GHz. This makes it suitable for light gaming and other graphics-intensive tasks.The Ryzen 7 3700U has a thermal design power (TDP) of 15 watts and supports PCIe 3.0. It also has 4MB of cache, which allows for faster data access and processing.</item>
+        <item>The FX-8350 is an eight-core processor built on AMD 32nm Piledriver architecture and features a base clock speed of 4.0 GHz. The FX-8350 has a thermal design power (TDP) of 125 watts and supports up to 32GB of DDR3 memory. It also supports PCIe 2.0 and has 16MB of cache, which allows for faster data access and processing. While the FX-8350 was a powerful processor at the time of its release, it is now outdated and has been surpassed by newer processors in terms of performance and efficiency. However, it may still be suitable for some basic computing applications or for use in older systems that require a compatible AM3+ socket.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://tpucdn.com/cpu-specs/images/chips/2471-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2472-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2364-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2719-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2377-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2243-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2271-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2297-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/2173-front.jpg</item>
+        <item>https://tpucdn.com/cpu-specs/images/chips/1099-front.jpg</item>
+    </string-array>
+
+</resources>
